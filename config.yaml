@@ -17,4 +17,4 @@ tables:
 
 table_truncation_mode: TRUNCATE
 schema_creation_mode: CREATE_IF_NOT_EXISTS
-safety_mode: RELAXED4
+safety_mode: RELAXED
